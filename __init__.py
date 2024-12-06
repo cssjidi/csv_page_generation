@@ -1,0 +1,1 @@
+from .csv_page_generator import register 
